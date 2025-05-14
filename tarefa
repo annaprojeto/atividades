@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Notícia do Dia</title>
+</head>
+<body>
+  <h1>Chuva Intensa Causa Alagamentos em Diversas Regiões da Cidade</h1>
+
+  <h2>Temporal surpreende moradores e provoca transtornos no trânsito e nos transportes públicos</h2>
+
+  <p><strong>São Paulo, 1º de maio de 2025</strong> – Uma forte chuva atingiu a capital na tarde desta quarta-feira, provocando alagamentos em diversos bairros e deixando o trânsito lento em várias avenidas importantes.</p>
+
+  <p>De acordo com a <em>Defesa Civil</em>, em apenas duas horas choveu o equivalente a 70% do esperado para todo o mês. Equipes de emergência foram acionadas para ajudar motoristas que ficaram presos em áreas alagadas.</p>
+
+  <p><u>Moradores relataram dificuldades</u> para retornar para casa, especialmente na zona leste, onde as ruas ficaram intransitáveis. “Fiquei mais de duas horas dentro do ônibus parado”, contou <mark>Luciana Ribeiro</mark>, auxiliar de enfermagem.</p>
+
+  <p>O <small>Centro de Gerenciamento de Emergências (CGE)</small> manteve o estado de atenção em toda a cidade até o final da noite. A prefeitura recomendou que a população evite deslocamentos desnecessários até que a situação se normalize.</p>
+</body>
+</html>
