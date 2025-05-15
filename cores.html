@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Comparação de Cores</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      padding: 20px;
+    }
+    .cor-container {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+    }
+    .cor {
+      width: 150px;
+      height: 150px;
+      border-radius: 10px;
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      font-weight: bold;
+    }
+    .original { background-color: rgb(219, 78, 68); }
+    .clara    { background-color: rgb(224, 104, 95); }
+    .escura   { background-color: rgb(186, 66, 58); }
+  </style>
+</head>
+<body>
+  <h1>Comparação de Cores</h1>
+  <div class="cor-container">
+    <div class="cor original">
+      Original<br>
+      rgb(219, 78, 68)
+    </div>
+    <div class="cor clara">
+      +15% Clara<br>
+      rgb(224, 104, 95)
+    </div>
+    <div class="cor escura">
+      -15% Escura<br>
+      rgb(186, 66, 58)
+    </div>
+  </div>
+</body>
+</html>
