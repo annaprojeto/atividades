@@ -1,0 +1,55 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #FFF0F5; /* lavanda */
+  color: #5D4157; /* marrom suave */
+  font-family: 'Georgia', serif;
+  line-height: 1.6;
+  padding: 2rem;
+}
+
+/* Cabeçalhos */
+h1, h2, h3 {
+  color: #FFB347; /* laranja pastel */
+  font-family: 'Courier New', monospace;
+  margin-bottom: 1rem;
+}
+
+/* Texto */
+p {
+  margin-bottom: 1.5rem;
+  font-size: 1.1rem;
+}
+
+/* Links */
+a {
+  color: #FFB347;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #e6952f;
+}
+
+/* Estrutura */
+.page-wrapper {
+  max-width: 960px;
+  margin: 0 auto;
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(93, 65, 87, 0.1);
+}
+
+footer {
+  margin-top: 4rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #8B6F7D;
+}
